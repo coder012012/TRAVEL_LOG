@@ -1,4 +1,4 @@
-A full-stack app to log the places you traveled and shows it on the map.
+A full-stack app to log the places you travelled and shows it on the map.
 
 # log Entry
 
